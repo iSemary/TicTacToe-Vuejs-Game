@@ -1,5 +1,5 @@
 # tic-tac-toe
-<img alt="alt_text" src="preview/preview.PNG" />
+<img alt="alt_text" src="https://raw.githubusercontent.com/iSemary/TicTacToe-Vuejs-Game/master/preview/preview.png" />
 
 ## Project setup
 ```
